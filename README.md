@@ -26,8 +26,8 @@
   </a>
 </div>
 <div align="center">
-  <a href="http://thinkmill.com.au/?utm_source=github&utm_medium=badge&utm_campaign=react-boilerplate">
-    <img alt="Supported by Thinkmill" src="https://github.com/Minute-Plumbing/Brand/blob/master/heart.ico" />
+  <a href="https://www.facebook.com/DrealityInc">
+    <img alt="Supported by Brian L." src="https://github.com/Minute-Plumbing/Brand/blob/master/heart.ico" />
   </a>
   <!-- Gitter -->
   <a href="https://gitter.im/Minute-Plumbing/Minute-Plumbing-App">
