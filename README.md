@@ -1,4 +1,4 @@
-<img src="https://github.com/Minute-Plumbing/Brand/logoBanner.png" alt="react boilerplate banner" align="center" />
+<img src="https://github.com/Minute-Plumbing/Brand/blob/master/logoBanner.png" alt="react boilerplate banner" align="center" />
 
 <br />
 
